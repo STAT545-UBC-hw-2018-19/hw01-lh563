@@ -2,14 +2,14 @@
 
 ## Overview
 ### In this README file, I have included the following items:
-1. An introduction to the repository
-2. An introduction to myself
+1. An introduction of the repository
+2. An introduction of myself
 3. Some experiments on the functions
 
 ## Repository description
 *This repository is the **first** one I have created. It includes a README file and some gapminder dataset R markdown files.*
 
-## Introduction to myself
+## Introduction of myself
 My name is Lu Han and I am a master student at Food Nutrition & Health Faculty. But I can only cook some "dark cuisines":stuck_out_tongue_closed_eyes: If you want to know how to make blueberry prawn soup, I can teach you next time!
 
 I really like this quote from Bible
