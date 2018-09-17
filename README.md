@@ -17,7 +17,9 @@ I really like this quote from Bible
 >
 >-Bible
 
+Kung Fu Panda is one of my favourite animation!
 
+![](https://github.com/STAT545-UBC-students/hw01-lh563/blob/master/tenor.gif)
 
 ## To-Dos this week
 
