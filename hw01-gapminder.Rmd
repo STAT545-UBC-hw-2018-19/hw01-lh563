@@ -1,48 +1,35 @@
 ---
 title: "hw01-gapminder"
-output: html_document
+author: "Lu Han"
+output: 
+    html_document:
+      keep_md: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+#Familiarlizing with the data frame
+##See the entire data frame
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 ```{r}
-gapminder
+library(gapminder)
 ```
 
+These lines are to try some features.
+The **head** command will return the first six rows of the data frame, while the **tail** will return the last six rows.
 ```{r}
 head(gapminder)
 tail(gapminder)
 ```
-
+To see the summary,
 ```{r}
 summary(gapminder)
 ```
+TO see the mean of liveExp
 ```{r}
 mean(gapminder$lifeExp)
 ```
 
-```{r}
-plot()
-```
 
